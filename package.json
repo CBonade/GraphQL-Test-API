@@ -20,6 +20,7 @@
     "express-graphql": "^0.6.7"
   },
   "dependencies": {
+    "cors": "^2.8.4",
     "graphql": "^0.10.3"
   }
 }
